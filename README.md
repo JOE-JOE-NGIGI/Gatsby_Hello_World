@@ -1,7 +1,7 @@
 # Gatsby_Hello_World
 Simple beginner Static App using Gatsby
 
-Installing and using Gatsby
+# Installing and using Gatsby
 Gatsby is available via the gatsby-cli JavaScript package. You have two ways you can use it:
 
 Global install, run npm install gatsby-cli -g, this will install the executable gatsby on your machine. You can now use Gatsby like so in your terminal: gatsby <command>.
