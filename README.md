@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
@@ -107,4 +106,4 @@ View GraphQL, an in-browser IDE, to explore your site's data and schema
 If successful.
 
 ```gatsby build```: Create a deployable static representation of your app. All the resulting HTML, JavaScript, and CSS will end up in the sub-directory public.
->>>>>>> 3097d1d790ce59386e872b6eab7741a842dfd411
+
