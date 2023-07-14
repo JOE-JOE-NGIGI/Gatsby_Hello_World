@@ -21,6 +21,7 @@ The output of this command should be:
   http://localhost:8000.
 View GraphQL, an in-browser IDE, to explore your site's data and schema
   http://localhost:8000/___graphql```
+
 If successful.
 
 ```gatsby build```: Create a deployable static representation of your app. All the resulting HTML, JavaScript, and CSS will end up in the sub-directory public.
